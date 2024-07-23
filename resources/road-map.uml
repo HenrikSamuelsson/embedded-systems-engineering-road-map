@@ -1,9 +1,15 @@
 @startwbs
-* Embedded Systems Engineering Road Map
-** Mathematical Foundations
-** Engineering Foundations
-** Computing Foundations
-** Soft Skills
-** Software
-** Hardware
+<style>
+node {
+    MinimumWidth 120
+    MaximumWidth 480
+}
+</style>
++ Embedded Systems Engineering Road Map
+ + Foundations
+  + Mathematics
+  + Engineering
+  + Computing
+ + Embedded Systems
+ + Soft Skills
 @endwbs
