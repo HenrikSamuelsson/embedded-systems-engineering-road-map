@@ -1,15 +1,24 @@
 @startwbs
 <style>
 node {
-    MinimumWidth 120
-    MaximumWidth 480
+    MinimumWidth 144
+    MaximumWidth 1440
 }
 </style>
 + Embedded Systems Engineering Road Map
  + Foundations
   + Mathematics
-  + Engineering
-  + Computing
- + Embedded Systems
+  + Electrical Engineering
+  + Computer Science
  + Soft Skills
+  + Communication
+  + Problem Solving
+  + Critical Thinking
+  + Teamwork
+  + Being Self Driven
+  + Adaptability
+ + Embedded Systems
+  + Microcontrollers
+  + Real-Time OS
+  + Embedded Linux OS
 @endwbs
