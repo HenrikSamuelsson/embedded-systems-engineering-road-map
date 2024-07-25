@@ -1,8 +1,9 @@
 @startwbs
 <style>
 node {
-    MinimumWidth 144
-    MaximumWidth 1440
+    MinimumWidth 160
+    MaximumWidth 1600
+    RoundCorner 8
 }
 </style>
 + Embedded Systems Engineering Road Map
@@ -11,10 +12,11 @@ node {
   + Electrical Engineering
    + Electrical Circuits
   + Computer Science
+   + Operating Systems (OS)
  + Soft Skills
   + Communication Skills
    + Communication
-   + Writing
+   + Technical Writing
    + Presentation
   + Problem Solving
   + Critical Thinking
