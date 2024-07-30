@@ -4,7 +4,10 @@
 
 ## Soft Skills
 
+### Problem Solving
+
 &#128366; The Ideal Problem Solver  
+&#128366; Think Like a Programmer  
 
 ## Embedded Systems
 
