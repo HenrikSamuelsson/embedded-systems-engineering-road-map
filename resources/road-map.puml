@@ -17,8 +17,9 @@ node {
   + Electrical Engineering
    + Electrical Circuits
   + Computer Science
+   + Software Engineering
    + Operating Systems (OS)
-   + Programming
+   + A Programming Language
  + Soft Skills
   + Communication Skills
    + Verbal Communication
@@ -35,6 +36,12 @@ node {
   + Adaptability
  + Embedded Systems
   + Microcontrollers
+  + Programming Languages
+   + C
+   + C++
+   + Python
+   + Assembly
+   + Rust
   + Real-Time OS
    + Zephyr
    + FreeRTOS
