@@ -14,12 +14,16 @@ node {
    + Statistics
    + Discrete Mathematics
    + Numerical Analysis
+  + Computer Science
+   + Computer Architecture
+   + Operating Systems (OS)
+   + Design Patterns
   + Electrical Engineering
    + Electrical Circuits
-  + Computer Science
-   + Software Engineering
-   + Operating Systems (OS)
-   + A Programming Language
+  + Software Engineering
+   + General Programming
+   + Version Control
+   + Development Tools
  + Soft Skills
   + Communication Skills
    + Verbal Communication
@@ -32,11 +36,12 @@ node {
    + Creativity
   + Critical Thinking
   + Teamwork
-  + Being Self Driven
+  + Being Driven
+   + Time Management
   + Adaptability
  + Embedded Systems
   + Microcontrollers
-  + Programming Languages
+  + Systems Programming
    + C
    + C++
    + Python
