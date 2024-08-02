@@ -16,7 +16,7 @@ node {
    + Numerical Analysis
   + Computer Science
    + Computer Architecture
-   + Operating Systems (OS)
+   + Operating Systems
    + Design Patterns
   + Electrical Engineering
    + Electrical Circuits
@@ -39,16 +39,25 @@ node {
   + Being Driven
    + Time Management
   + Adaptability
+  + Project Management
  + Embedded Systems
+  + Design
   + Microcontrollers
+  + FPGA
+  + Communication Protocols
   + Systems Programming
    + C
    + C++
    + Python
    + Assembly
    + Rust
-  + Real-Time OS
-   + Zephyr
-   + FreeRTOS
-  + Embedded Linux OS
+  + Debugging
+  + Testing
+  + Operating Systems
+   + Real-Time
+   + Embedded Linux
+  + Test Equipment
+   + Multimeter
+   + Logic Analyzer
+   + Oscilloscope
 @endwbs
