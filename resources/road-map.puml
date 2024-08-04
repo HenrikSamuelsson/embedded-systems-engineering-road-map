@@ -18,14 +18,14 @@ node {
    + Computer Architecture
    + Operating Systems
    + Design Patterns
-   + State Machine
+   + State Machines
    + Memory Managment
   + Electrical Engineering
    + Electrical Circuits
    + Electronic Fundamentals
    + Digital Design
   + Software Engineering
-   + General Programming
+   + Programming
    + Version Control
    + Development Tools
  + Soft Skills
@@ -46,9 +46,23 @@ node {
   + Project Management
  + Embedded Systems
   + Design
-  + Microcontrollers
-  + FPGAs
+  + Microcontroller
+   + GPIO
+   + ADC
+   + DAC
+   + Timer
+   + PWM
+   + Watchdog
+   + Interrupt
+  + FPGA
   + Communication Protocols
+   + Basic Serial
+   + High-Speed
+   + Wireless
+   + Network
+   + Automotive
+   + Industrial
+   + Cellular
   + Systems Programming
    + C
    + C++
