@@ -17,6 +17,8 @@ node {
   + Computer Science
    + Computer Architecture
    + Operating Systems
+   + Data Structures
+   + Algorithms
    + Design Patterns
    + State Machines
    + Memory Managment
@@ -54,6 +56,9 @@ node {
    + PWM
    + Watchdog
    + Interrupt
+   + DMA
+   + Clock Management
+   + Power Management
   + FPGA
   + Communication Protocols
    + Basic Serial
@@ -70,6 +75,10 @@ node {
    + Assembly
    + Rust
   + Debugging
+   + GDB
+   + JTAG
+   + SWD
+   + OpenOCD
   + Testing
   + Operating Systems
    + Real-Time
