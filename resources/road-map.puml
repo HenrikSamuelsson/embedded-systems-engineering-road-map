@@ -80,6 +80,12 @@ node {
    + SWD
    + OpenOCD
   + Testing
+   + Unit Test
+   + Integration Test
+   + CI/CD Pipelines
+   + Software In the Loop
+   + Hardware In the Loop
+   + Standards
   + Operating Systems
    + Real-Time
    + Embedded Linux
