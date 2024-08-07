@@ -47,7 +47,7 @@ node {
   + Adaptability
   + Project Management
  + Embedded Systems
-  + Design
+  + Design Fundamentals
   + Microcontroller
    + GPIO
    + ADC
@@ -59,6 +59,12 @@ node {
    + DMA
    + Clock Management
    + Power Management
+  + Prototyping
+   + Breadbording
+   + Soldering
+  + PCB Design
+   + CAD
+   + EMC
   + FPGA
   + Communication Protocols
    + Basic Serial

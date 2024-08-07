@@ -33,7 +33,7 @@
 
 ## Resources
 
-This roadmap is inspired and influenced by the following great resources.
+This roadmap is influenced by the following great resources.
 
 [16 Essential Skills of Embedded Product Development](https://swedishembedded.com/product/skills)  
 [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)  
