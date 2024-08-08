@@ -26,6 +26,8 @@ node {
    + Electrical Circuits
    + Electronic Fundamentals
    + Digital Design
+   + Control Theory
+   + Digital Signal Processing
   + Software Engineering
    + Programming
    + Version Control
@@ -50,7 +52,7 @@ node {
   + Project Management
  + Embedded Systems
   + Design Fundamentals
-  + Microcontroller
+  + Microcontrollers
    + GPIO
    + ADC
    + DAC
@@ -61,13 +63,15 @@ node {
    + DMA
    + Clock Management
    + Power Management
+  + FPGAs
+  + Sensors
+  + Actuators
   + Prototyping
    + Breadbording
    + Soldering
   + PCB Design
    + CAD
    + EMC
-  + FPGA
   + Communication Protocols
    + Basic Serial
    + High-Speed
