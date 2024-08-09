@@ -22,18 +22,26 @@ node {
    + Design Patterns
    + State Machines
    + Memory Managment
+   + Cybersecurity
   + Electrical Engineering
    + Electrical Circuits
    + Electronic Fundamentals
    + Digital Design
    + Control Theory
    + Digital Signal Processing
+   + EMC
   + Software Engineering
    + Programming
    + Version Control
-   + Development Tools
+   + CI/CD Pipelines
+   + IDE
    + Documentation
    + Refactoring
+   + SDLC Models
+   + Compilers
+   + CMake
+   + Scripting
+   + Docker
  + Soft Skills
   + Communication Skills
    + Verbal Communication
@@ -52,6 +60,10 @@ node {
   + Project Management
  + Embedded Systems
   + Design Fundamentals
+   + Logging
+   + Bootloaders
+   + Layered Architecture
+   + Error Handling
   + Microcontrollers
    + GPIO
    + ADC
@@ -71,7 +83,6 @@ node {
    + Soldering
   + PCB Design
    + CAD
-   + EMC
   + Communication Protocols
    + Basic Serial
    + High-Speed
@@ -94,13 +105,14 @@ node {
   + Testing
    + Unit Test
    + Integration Test
-   + CI/CD Pipelines
    + Software In the Loop
    + Hardware In the Loop
    + Standards
   + Operating Systems
    + Real-Time
    + Embedded Linux
+  + Security
+  + GUI
   + Test Equipment
    + Multimeter
    + Logic Analyzer
