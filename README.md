@@ -31,6 +31,40 @@
 
 ## Embedded Systems
 
+### Design Fundamentals
+
+### Microcontrollers
+
+### FPGAs
+
+### Sensors
+
+### Actuators
+
+### Prototyping
+
+### PCB Design
+
+### Communication Protocols
+
+### Systems Programming
+
+### Debugging
+
+### Testing
+
+#### Software In the Loop
+
+&#128279; Renode
+
+### Operating Systems
+
+### Security
+
+### GUI
+
+### Test Equipment
+
 ## Resources
 
 This roadmap is influenced by the following great resources.
