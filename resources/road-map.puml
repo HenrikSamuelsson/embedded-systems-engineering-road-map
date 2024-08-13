@@ -48,6 +48,8 @@ node {
   + Communication Skills
    + Verbal Communication
    + Written Communication
+    + Grammar
+    + Style
    + Presentation Skills
    + Relationships
   + Problem Solving
@@ -111,11 +113,20 @@ node {
    + Unit Test
    + Integration Test
    + Software In the Loop
+    + Renode
+    + Qmenu
    + Hardware In the Loop
    + Standards
   + Operating Systems
    + Real-Time
    + Embedded Linux
+    + Linux Kernel
+    + Device Drivers
+    + U-Boot
+    + Buildroot/Yocto
+    + Threading
+    + IPC
+    + QT
   + Security
   + GUI
   + Test Equipment
