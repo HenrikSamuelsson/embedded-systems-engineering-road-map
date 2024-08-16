@@ -1,6 +1,18 @@
 # Embedded Systems Engineering Road Map
 
-## Foundations
+## Engineering Foundations
+
+### Mathematics
+
+### Computer Science
+
+#### Design Patterns
+
+&#128366; Head First - Design Patterns
+
+### Electrical Engineering
+
+### Software Engineering
 
 ## Soft Skills
 
