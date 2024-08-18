@@ -59,6 +59,10 @@
 
 ### Communication Protocols
 
+#### Bluetooth
+
+&#127891; [Bluetooth Low Energy Fundamentals/](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals)  
+
 ### Systems Programming
 
 ### Debugging

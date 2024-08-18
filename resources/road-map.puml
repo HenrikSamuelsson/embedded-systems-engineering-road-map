@@ -94,6 +94,13 @@ node {
    + Basic Serial
    + High-Speed
    + Wireless
+    + Bluetooth
+    + Wi-Fi
+    + LoRa
+    + Zigbee
+    + Thread
+    + Matter
+    + UWB
    + Network
    + Automotive
    + Industrial
