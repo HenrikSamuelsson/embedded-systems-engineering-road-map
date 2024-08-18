@@ -61,7 +61,7 @@
 
 #### Bluetooth
 
-&#127891; [Bluetooth Low Energy Fundamentals/](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals)  
+&#127891; [Bluetooth Low Energy Fundamentals](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/)  
 
 ### Systems Programming
 
