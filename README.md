@@ -65,6 +65,18 @@
 
 ### Systems Programming
 
+#### C
+
+&#128366; [Beej's Guide to C Programming](https://beej.us/guide/bgc/)  
+
+#### C++
+
+#### Assembly
+
+#### Python
+
+#### Rust
+
 ### Debugging
 
 ### Testing
