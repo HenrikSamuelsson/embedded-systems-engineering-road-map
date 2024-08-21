@@ -4,6 +4,22 @@
 
 ### Mathematics
 
+#### Pre-Algebra
+
+#### Basic Mathematics
+
+&#128366; [Contemporary Mathematics](https://openstax.org/details/books/contemporary-mathematics)  
+
+#### Algebra
+
+#### Statistics
+
+#### Trigonometry
+
+#### Linear Algebra
+
+#### Calculus
+
 ### Computer Science
 
 #### Design Patterns
