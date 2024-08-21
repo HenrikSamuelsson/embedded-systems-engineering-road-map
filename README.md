@@ -18,6 +18,8 @@
 
 #### Linear Algebra
 
+&#128366; [Linear Algebra Done Right](https://linear.axler.net/)  
+
 #### Calculus
 
 ### Computer Science
