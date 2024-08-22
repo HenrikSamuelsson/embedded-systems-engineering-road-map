@@ -6,7 +6,7 @@
 
 #### Basic Mathematics
 
-&#128366; [Prealgebra 2nd ed](https://openstax.org/details/books/prealgebra-2e)
+&#128366; [Prealgebra 2nd ed](https://openstax.org/details/books/prealgebra-2e)  
 &#128366; [Contemporary Mathematics](https://openstax.org/details/books/contemporary-mathematics)  
 
 #### Algebra
