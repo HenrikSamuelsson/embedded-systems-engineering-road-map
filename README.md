@@ -21,6 +21,8 @@
 
 #### Calculus
 
+&#128366; Calculus 3rd ed, Gilbert Strang
+
 ### Computer Science
 
 #### Design Patterns
