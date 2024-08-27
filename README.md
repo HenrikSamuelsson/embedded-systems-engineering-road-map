@@ -87,7 +87,7 @@
 #### C
 
 &#128366; [Beej's Guide to C Programming](https://beej.us/guide/bgc/)  
-&#128366; [Modern, Third Edition](https://www.manning.com/books/modern-c-third-edition)  
+&#128366; [Modern C, Third Edition](https://www.manning.com/books/modern-c-third-edition)  
 
 #### C++
 
