@@ -21,7 +21,7 @@
 
 #### Calculus
 
-&#128366; Calculus 3rd ed, Gilbert Strang
+&#128366; [Calculus 3rd ed, Gilbert Strang](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/)
 
 ### Computer Science
 
