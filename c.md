@@ -4,7 +4,7 @@ This is a brief introduction to the C programming language.
 
 ## About
 
-A programming language is a system of notation for writing code with the intention of creating a computer program. A lot of programming languages exists but only a few are in reality commonly used, one of these being C.
+A programming language is a system of notation for writing code with the intention of creating a computer program. A lot of programming languages exists but only a few are commonly used, one of these being C.
 
 C was created in the seventies and is hence one of the older programming languages. It is despite being old still widely used. Any computerized device or appliance you encounter is likely to be relying on a program written in C:
 
