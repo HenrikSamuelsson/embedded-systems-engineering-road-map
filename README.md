@@ -95,6 +95,9 @@
 
 #### Python
 
+&#128366; [Python Crash Course, 3rd Edition](https://nostarch.com/python-crash-course-3rd-edition)  
+&#128366; [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
+
 #### Rust
 
 ### Debugging
