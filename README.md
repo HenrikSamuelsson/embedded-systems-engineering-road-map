@@ -91,6 +91,10 @@
 
 #### C++
 
+Programming: Principles and Practice Using C++ (C++ In-depth) 3rd Edition  
+C++ Software Design: Design Principles and Patterns for High-Quality Software  
+Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming  
+
 #### Assembly
 
 #### Python
