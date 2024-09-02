@@ -88,6 +88,7 @@
 
 &#128366; [Beej's Guide to C Programming](https://beej.us/guide/bgc/)  
 &#128366; [Modern C, Third Edition](https://www.manning.com/books/modern-c-third-edition)  
+&#128279; [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)  
 
 #### C++
 
@@ -95,15 +96,15 @@ Programming: Principles and Practice Using C++ (C++ In-depth) 3rd Edition
 C++ Software Design: Design Principles and Patterns for High-Quality Software  
 Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming  
 
+#### Rust
+
 #### Assembly
 
 #### Python
 
 &#128366; [Python Crash Course, 3rd Ed.](https://nostarch.com/python-crash-course-3rd-edition)  
 &#128366; [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
-&#128366; [Effective Python: 125 Specific Ways to Write Better Pyhnon, 3rd Ed.](https://www.pearson.com/en-us/subject-catalog/p/effective-python-125-specific-ways-to-write-better-python/P200000010820/9780138172275)  
-
-#### Rust
+&#128366; [Effective Python: 125 Specific Ways to Write Better Pyhnon, 3rd Ed.](https://www.pearson.com/en-us/subject-catalog/p/effective-python-125-specific-ways-to-write-better-python/P200000010820/9780138172275) 
 
 ### Debugging
 
