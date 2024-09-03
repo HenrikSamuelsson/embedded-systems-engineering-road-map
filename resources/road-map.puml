@@ -76,6 +76,11 @@ node {
    + Layered Architecture
    + Error Handling
   + Microcontrollers
+   + Architectures
+    + ARM
+    + RISC-V
+    + AVR
+    + Xtensa
    + GPIO
    + ADC
    + DAC
