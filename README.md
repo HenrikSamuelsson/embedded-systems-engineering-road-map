@@ -41,6 +41,7 @@
 
 #### Digital Signal Processing
 
+&#128366; [Think DSP: Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/)  
 &#128366; [Digital Signal Processing Using the ARM Cortex M4](https://www.wiley.com/en-us/Digital+Signal+Processing+Using+the+ARM+Cortex+M4-p-9781118859049)
 
 #### EMC
