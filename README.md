@@ -81,6 +81,18 @@
 
 ### Microcontrollers
 
+#### Architectures
+
+##### ARM
+
+&#128366; "The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors" by Joseph Yiu  
+
+##### RISC-V
+
+##### AVR
+
+##### Xtensa
+
 ### FPGAs
 
 ### Sensors
@@ -113,13 +125,15 @@ Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programmin
 
 #### Rust
 
+&#128279;[The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/intro/index.html)  
+
 #### Assembly
 
 #### Python
 
 &#128366; [Python Crash Course, 3rd Ed.](https://nostarch.com/python-crash-course-3rd-edition)  
 &#128366; [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
-&#128366; [Effective Python: 125 Specific Ways to Write Better Pyhnon, 3rd Ed.](https://www.pearson.com/en-us/subject-catalog/p/effective-python-125-specific-ways-to-write-better-python/P200000010820/9780138172275) 
+&#128366; [Effective Python: 125 Specific Ways to Write Better Python, 3rd Ed.](https://www.pearson.com/en-us/subject-catalog/p/effective-python-125-specific-ways-to-write-better-python/P200000010820/9780138172275) 
 
 ### Debugging
 
