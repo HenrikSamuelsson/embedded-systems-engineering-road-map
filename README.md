@@ -160,3 +160,5 @@ This roadmap is influenced by the following great resources.
 [Path to Senior Engineer Handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)  
 [Open Source Society University](https://github.com/ossu/computer-science)  
 Roadmap.sh[Developer Roadmaps](https://roadmap.sh/)  
+[16x Engineer](https://16x.engineer/)  
+[Software Engineer's Library](https://kevinsmith.io/library/)  
