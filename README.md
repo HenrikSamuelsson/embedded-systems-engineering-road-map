@@ -54,6 +54,8 @@
 
 #### Verbal Communication
 
+&#128366; [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)  
+
 #### Written Communication
 
 &#128366; The Insider's Guide to Technical Writing  
