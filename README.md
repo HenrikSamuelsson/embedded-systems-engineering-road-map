@@ -50,13 +50,23 @@
 
 ## Soft Skills
 
+### Learning
+
+&#128366; How We Learn: The New Science of Education and the Brain  
+&#128366; Teach Yourself How to Learn: Strategies You Can Use to Ace Any Course at Any Level  
+&#128366; The Socratic Method: A Practitioner’s Handbook if have a suitable field  
+
 ### Communication
 
-#### Verbal Communication
+#### Articulate
 
 &#128366; [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)  
 
-#### Written Communication
+#### Writing
+
+##### Grammar
+
+##### Style
 
 &#128366; The Insider's Guide to Technical Writing  
 
