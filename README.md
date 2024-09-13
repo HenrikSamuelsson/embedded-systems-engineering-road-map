@@ -74,8 +74,14 @@
 
 ### Problem Solving
 
+#### Analysis
+
 &#128366; The Ideal Problem Solver  
 &#128366; Think Like a Programmer  
+
+#### Resilience
+  
+&#128366; [Resilience](https://a.co/d/2cAcIYV)  
 
 ### Critical Thinking
 
