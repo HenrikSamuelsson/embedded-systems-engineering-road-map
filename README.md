@@ -87,6 +87,10 @@
 
 ### Teamwork
 
+#### Emotional Intelligence
+
+&#128366; Emotional Intelligence by Daniel Goleman
+
 ### Being Driven
 
 #### Time Management
