@@ -85,6 +85,8 @@
 
 ### Critical Thinking
 
+&#128366; Critical Thinking (The MIT Press Essential Knowledge series), Jonathan Haber
+
 ### Teamwork
 
 #### Emotional Intelligence
