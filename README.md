@@ -95,6 +95,10 @@
 
 ### Being Driven
 
+#### Motivation
+
+&#128366; [Drive: The Surprising Truth About What Motivates Us, Daniel H. Pink](https://www.danpink.com/books/drive/)  
+
 #### Time Management
 
 &#128366; The Productivity Project
