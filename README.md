@@ -95,13 +95,17 @@
 
 ### Being Driven
 
+#### Goal Setting
+
+&#128366; [How to Set Goals with Kaizen and Ikigai](https://amzn.eu/d/fGTKVKB)  
+
 #### Motivation
 
 &#128366; [Drive: The Surprising Truth About What Motivates Us, Daniel H. Pink](https://www.danpink.com/books/drive/)  
 
 #### Execution
 
-&#128366; [4 Disciplines of Execution: Getting Strategy Done](https://amzn.eu/d/9uJogZ1) 
+&#128366; [4 Disciplines of Execution: Getting Strategy Done](https://amzn.eu/d/9uJogZ1)  
 
 #### Time Management
 
