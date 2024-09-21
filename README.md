@@ -66,6 +66,8 @@
 
 ##### Grammar
 
+&#128366; [The Elements of Style, Fourth Edition](https://a.co/d/4ya52iO)  
+
 ##### Style
 
 &#128366; The Insider's Guide to Technical Writing  
