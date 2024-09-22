@@ -143,9 +143,22 @@
 
 ### Communication Protocols
 
-#### Bluetooth
+#### Basic Serial
+
+#### High-Speed
+
+#### Wireless
+
+##### Bluetooth
 
 &#127891; [Bluetooth Low Energy Fundamentals](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/)  
+&#127891; [Building an Ultra-Low Power Scalable Weather Station](https://academy.novelbits.io/register/nordic-pawr-weather-station-ble/?_gl=1*jxzfjs*_ga*MTU4Mjg5NzM1OS4xNzI2OTg1MTM2*_ga_FTRKLL78BY*MTcyNjk4NTEzNi4xLjEuMTcyNjk4NTE2Ni4zMC4wLjA.*_gcl_au*MjQ1NTgwMTQ2LjE3MjY5ODUxMzc.)  
+
+#### Network
+
+#### Industrial
+
+#### Cellular
 
 ### Systems Programming
 
