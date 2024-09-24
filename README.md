@@ -119,6 +119,12 @@
 
 ### Microcontrollers
 
+#### Development Kits
+
+#### Arduino
+
+[Arduino® UNO R4 WiFi](https://store.arduino.cc/en-se/collections/boards-modules/products/uno-r4-wifi)  
+
 #### Architectures
 
 ##### ARM
@@ -144,6 +150,14 @@
 ### Communication Protocols
 
 #### Basic Serial
+
+##### UART
+
+&#128279; [UART Protocols and Applications in Embedded Systems](https://www.embedded.com/understanding-the-uart/)  
+
+##### I2C
+
+##### SPI
 
 #### High-Speed
 

@@ -80,6 +80,7 @@ node {
    + Layered Architecture
    + Error Handling
   + Microcontrollers
+   + Development Kits
    + Architectures
     + ARM
     + RISC-V
@@ -105,6 +106,9 @@ node {
    + CAD
   + Communication Protocols
    + Basic Serial
+    + UART
+    + I2C
+    + SPI
    + High-Speed
    + Wireless
     + Bluetooth
