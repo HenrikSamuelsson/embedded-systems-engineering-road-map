@@ -157,6 +157,8 @@
 
 ##### I2C
 
+&#128279; [The Book of I²C: A Guide for Adventurers](https://nostarch.com/book-i%C2%B2c)  
+
 ##### SPI
 
 #### High-Speed
@@ -211,6 +213,9 @@ Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programmin
 ### Operating Systems
 
 ### Security
+
+https://a.co/d/ic4sy1o  
+https://nostarch.com/engineering-secure-devices  
 
 ### GUI
 
