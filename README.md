@@ -157,9 +157,11 @@
 
 ##### I2C
 
-&#128279; [The Book of I²C: A Guide for Adventurers](https://nostarch.com/book-i%C2%B2c)  
+&#128366; [The Book of I²C: A Guide for Adventurers](https://nostarch.com/book-i%C2%B2c)  
 
 ##### SPI
+
+&#128279; [SparkFun - Serial Peripheral Interface(SPI)](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
 
 #### High-Speed
 
