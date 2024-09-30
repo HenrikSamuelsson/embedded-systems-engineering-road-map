@@ -110,6 +110,9 @@ node {
     + I2C
     + SPI
    + High-Speed
+    + Ethernet
+    + USB
+    + PCIe
    + Wireless
     + Bluetooth
     + Wi-Fi
