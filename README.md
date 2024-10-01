@@ -76,6 +76,8 @@
 
 ### Problem Solving
 
+[Bulletproof Problem Solving: The One Skill That Changes Everything](https://a.co/d/dHdV4ff)  
+
 #### Analysis
 
 &#128366; The Ideal Problem Solver  
