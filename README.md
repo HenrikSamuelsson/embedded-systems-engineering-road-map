@@ -212,7 +212,7 @@ Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programmin
 
 #### Software In the Loop
 
-&#128279; Renode
+&#128279; [Renode](https://renode.io/)  
 
 ### Operating Systems
 
