@@ -218,8 +218,8 @@ Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programmin
 
 ### Security
 
-https://a.co/d/ic4sy1o  
-https://nostarch.com/engineering-secure-devices  
+&#128366; [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)  
+&#128366; [Engineering Secure Devices](https://nostarch.com/engineering-secure-devices)  
 
 ### GUI
 
