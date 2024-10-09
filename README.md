@@ -184,9 +184,20 @@
 
 #### C
 
+##### Coding
+
 &#128366; [Beej's Guide to C Programming](https://beej.us/guide/bgc/)  
 &#128366; [Modern C, Third Edition](https://www.manning.com/books/modern-c-third-edition)  
 &#128279; [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)  
+
+##### Preprocessor
+
+&#128279; [How macro expansion works](https://marc.info/?l=boost&m=118835769257658&w=2)  
+&#128279; [C Preprocessor tricks, tips, and idioms](https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms)  
+&#128279; [Awesome C Preprocessor](https://github.com/Hirrolot/awesome-c-preprocessor)  
+&#128279; [C Pre-Processor](https://gcc.gnu.org/onlinedocs/cpp/)  
+
+##### Building
 
 #### C++
 
