@@ -29,6 +29,11 @@
 
 &#128366; Head First - Design Patterns
 
+#### Parallel Computing
+
+&#128366; [Introduction to Parallel Computing](https://link.springer.com/book/10.1007/978-3-319-98833-7)  
+&#128366; [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)  
+
 ### Electrical Engineering
 
 #### Electrical Circuits
