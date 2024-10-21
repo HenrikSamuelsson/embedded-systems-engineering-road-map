@@ -57,7 +57,39 @@
 &#128366; [Introduction to Parallel Computing](https://link.springer.com/book/10.1007/978-3-319-98833-7)  
 &#128366; [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)  
 
-#### Software Engineering
+### Software Engineering
+
+#### Programming
+
+#### Version Control
+
+#### CI/CD Pipelines
+
+#### IDE
+
+#### Documentation
+
+##### Architecture
+
+&#128366; [Communication Patterns: A Guide for Developers and Architects](https://communicationpatternsbook.com/)  
+
+##### UML
+
+#### Refactoring
+
+#### SDLC Models
+
+#### Compilers
+
+#### Build Systems
+
+#### Scripting
+
+##### Python
+
+##### Bash
+
+#### Containers
 
 ## Soft Skills
 

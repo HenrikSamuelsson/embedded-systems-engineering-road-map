@@ -32,6 +32,7 @@ node {
    + Data Structures
    + Algorithms
    + Design Patterns
+   + Parallel Computing
    + State Machines
    + Memory Managment
    + Cybersecurity
@@ -41,6 +42,8 @@ node {
    + CI/CD Pipelines
    + IDE
    + Documentation
+    + Architecture
+    + UML
    + Refactoring
    + SDLC Models
    + Compilers
