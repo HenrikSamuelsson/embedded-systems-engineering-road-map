@@ -23,17 +23,6 @@
 
 &#128366; [Calculus 3rd ed, Gilbert Strang](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/)
 
-### Computer Science
-
-#### Design Patterns
-
-&#128366; Head First - Design Patterns
-
-#### Parallel Computing
-
-&#128366; [Introduction to Parallel Computing](https://link.springer.com/book/10.1007/978-3-319-98833-7)  
-&#128366; [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)  
-
 ### Electrical Engineering
 
 #### Electrical Circuits
@@ -50,6 +39,23 @@
 &#128366; [Digital Signal Processing Using the ARM Cortex M4](https://www.wiley.com/en-us/Digital+Signal+Processing+Using+the+ARM+Cortex+M4-p-9781118859049)
 
 #### EMC
+
+### Computer Science
+
+#### Computer Fundamentals
+
+&#128366; [CODE: The Hidden Language of Computer Hardware and Software 2nd Ed](https://codehiddenlanguage.com/)  
+&#128366; [How Computers Really Work](https://nostarch.com/how-computers-really-work)  
+&#128279; [From Nand to Tetris](https://www.nand2tetris.org/)  
+
+#### Design Patterns
+
+&#128366; [Head First - Design Patterns 2nd Ed](https://www.oreilly.com/library/view/head-first-design/9781492077992/)  
+
+#### Parallel Computing
+
+&#128366; [Introduction to Parallel Computing](https://link.springer.com/book/10.1007/978-3-319-98833-7)  
+&#128366; [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)  
 
 #### Software Engineering
 

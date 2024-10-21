@@ -18,15 +18,6 @@ node {
    + Statistics
    + Discrete Mathematics
    + Numerical Analysis
-  + Computer Science
-   + Computer Architecture
-   + Operating Systems
-   + Data Structures
-   + Algorithms
-   + Design Patterns
-   + State Machines
-   + Memory Managment
-   + Cybersecurity
   + Electrical Engineering
    + Electrical Circuits
    + Electronic Fundamentals
@@ -34,6 +25,16 @@ node {
    + Control Theory
    + Digital Signal Processing
    + EMC
+  + Computer Science
+   + Computer Fundamentals
+   + Computer Architectures
+   + Operating Systems
+   + Data Structures
+   + Algorithms
+   + Design Patterns
+   + State Machines
+   + Memory Managment
+   + Cybersecurity
   + Software Engineering
    + Programming
    + Version Control
